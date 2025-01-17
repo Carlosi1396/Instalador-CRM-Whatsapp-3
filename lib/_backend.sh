@@ -9,7 +9,7 @@
 #######################################
 backend_mysql_create() {
   print_banner
-  printf "${WHITE} 💻 Criando banco de dados...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Creando base de datos...${GRAY_LIGHT}"
   printf "\n\n"
 
   sleep 2
@@ -38,7 +38,7 @@ EOF
 #######################################
 backend_set_env() {
   print_banner
-  printf "${WHITE} 💻 Configurando variáveis de ambiente (backend)...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Configurar variables de entorno (backend)...${GRAY_LIGHT}"
   printf "\n\n"
 
   sleep 2
@@ -82,7 +82,7 @@ EOF
 #######################################
 backend_node_dependencies() {
   print_banner
-  printf "${WHITE} 💻 Instalando dependências do backend...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Instalando dependencias para backend...${GRAY_LIGHT}"
   printf "\n\n"
 
   sleep 2
@@ -102,7 +102,7 @@ EOF
 #######################################
 backend_node_build() {
   print_banner
-  printf "${WHITE} 💻 Compilando o código do backend...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Compilando el codigo para backend...${GRAY_LIGHT}"
   printf "\n\n"
 
   sleep 2
@@ -123,7 +123,7 @@ EOF
 #######################################
 backend_update() {
   print_banner
-  printf "${WHITE} 💻 Atualizando o backend...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Atualizando backend...${GRAY_LIGHT}"
   printf "\n\n"
 
   sleep 2
