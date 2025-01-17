@@ -35,7 +35,7 @@ system_git_clone() {
   sleep 2
 
   sudo su - deploy <<EOF
-  git clone https://github.com/Carlosi1396/CRM-Whatsapp-3.git /home/deploy/whasapodev/
+  git clone https://github.com/Carlosi1396/whasapodev.git /home/deploy/whasapodev/
 EOF
 
   sleep 2
