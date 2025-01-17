@@ -8,13 +8,13 @@ Firstly, you need to download it:
 ```bash
 sudo apt -y update && apt -y upgrade
 sudo apt install -y git
-git clone https://github.com/lolalos/whasapodev-installer.git
+git clone https://github.com/Carlosi1396/Instalador-CRM-Whatsapp-3.git
 ```
 
 Now, all you gotta do is making it executable:
 
 ```bash
-sudo chmod +x ./whasapodev-installer/whasapodev
+sudo chmod +x ./Instalador-CRM-Whatsapp-3/whasapodev
 ```
 
 ### usage
