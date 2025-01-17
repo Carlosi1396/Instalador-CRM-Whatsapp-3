@@ -22,7 +22,7 @@ sudo chmod +x ./Instalador-CRM-Whatsapp-3/whasapodev
 After downloading and making it executable, you need to **navigate into** the installer directory and **run the script with sudo**:
 
 ```bash
-cd ./whasapodev-installer
+cd ./Instalador-CRM-Whatsapp-3
 ```
 
 ```bash
