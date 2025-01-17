@@ -9,7 +9,7 @@
 #######################################
 system_create_user() {
   print_banner
-  printf "${WHITE} 💻 Agora, vamos criar o usuário para deploy...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Ahora, creemos el usuario para implementar...${GRAY_LIGHT}"
   printf "\n\n"
 
   sleep 2
@@ -29,7 +29,7 @@ EOF
 #######################################
 system_git_clone() {
   print_banner
-  printf "${WHITE} 💻 Fazendo download do código whasapodev...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Descargando el código de whatsapodev...${GRAY_LIGHT}"
   printf "\n\n"
 
   sleep 2
@@ -48,7 +48,7 @@ EOF
 #######################################
 system_update() {
   print_banner
-  printf "${WHITE} 💻 Vamos atualizar o sistema...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Actualicemos el sistema...${GRAY_LIGHT}"
   printf "\n\n"
 
   sleep 2
@@ -120,7 +120,7 @@ EOF
 #######################################
 system_puppeteer_dependencies() {
   print_banner
-  printf "${WHITE} 💻 Instalando puppeteer dependencies...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Instalando dependencias puppeteer ...${GRAY_LIGHT}"
   printf "\n\n"
 
   sleep 2
